@@ -1,7 +1,8 @@
 ![Bienvenue](https://via.placeholder.com/1200x300.png?text=Bienvenue+sur+mon+GitHub+🌱)
 
 # 👋 Salut, je suis Carelle 🌱  
-**Data Analyst** & **Web Developer** basée au Cameroun  
+**Data Analyst** & **Web Developer** basée au Cameroun  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/536f055c-0b4d-430c-91a9-afacb5395128" />
+
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /> **Toujours en train de coder quelque chose d'excitant !**
 
@@ -57,7 +58,11 @@ Un projet d’intelligence artificielle appliqué à l’agriculture pour améli
 - **Impact** : Aider les agriculteurs à prédire les récoltes et optimiser les ressources  
 👉 [Voir le projet](https://github.com/Carelle9000/Les-R-seaux-de-neurones-au-service-de-l-agriculture)
 
-*(Remplace `#` par les liens vers tes repos GitHub)*
+### 🛠 **Exo-Gadget-Personnalise**
+Un projet **Maven JEE** basé sur l’architecture **MVC** utilisant **servlets, JSP, et services** pour créer un gadget personnalisé.  
+- **Technologies utilisées** : Java EE, Servlets, JSP, Maven  
+- **Objectif** : Développer un gadget réutilisable avec une structure modulable et une gestion optimisée des données.  
+👉 [Voir le projet](https://github.com/Carelle9000/exo-gadget-personnalise)
 
 ---
 
