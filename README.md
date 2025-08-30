@@ -39,7 +39,7 @@
 Un site web interactif dédié à la promotion des solutions technologiques respectueuses de l’environnement.  
 - **Technologies utilisées** : HTML, CSS, JavaScript  
 - **Objectif** : Sensibiliser à la Green Tech et proposer des solutions durables  
-👉 [Voir le projet](#)
+👉 [Voir le projet](https://github.com/Carelle9000/GreenTechSolutions)
 
 ---
 
@@ -47,7 +47,7 @@ Un site web interactif dédié à la promotion des solutions technologiques resp
 Une landing page professionnelle et responsive pour la présentation et la vente d’équipements gaming haut de gamme.  
 - **Technologies utilisées** : HTML, CSS  
 - **Points forts** : Design moderne, optimisation mobile, call-to-action efficace  
-👉 [Voir le projet](#)
+👉 [Voir le projet](https://github.com/Carelle9000/Landing-Page)
 
 ---
 
@@ -55,7 +55,7 @@ Une landing page professionnelle et responsive pour la présentation et la vente
 Un projet d’intelligence artificielle appliqué à l’agriculture pour améliorer les rendements grâce aux réseaux de neurones.  
 - **Technologies utilisées** : Python, TensorFlow, Pandas  
 - **Impact** : Aider les agriculteurs à prédire les récoltes et optimiser les ressources  
-👉 [Voir le projet](#)
+👉 [Voir le projet](https://github.com/Carelle9000/Les-R-seaux-de-neurones-au-service-de-l-agriculture)
 
 *(Remplace `#` par les liens vers tes repos GitHub)*
 
@@ -68,9 +68,9 @@ Un projet d’intelligence artificielle appliqué à l’agriculture pour améli
 ---
 
 ## 📫 Me contacter  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonprofil)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ornella-tiako-a318002a3)  
 ✉ **Email** : **ornellatiako730@gmail.com**
 
 ---
 
-> *“Codant pour un futur plus vert, un projet à la fois.”* 🌍
+> *“Codons pour un futur plus vert, un projet à la fois.”* 🌍
